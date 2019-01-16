@@ -1,0 +1,2 @@
+tree.cpp: In function `int main()':
+tree.cpp:36: error: `FInd' was not declared in this scope
